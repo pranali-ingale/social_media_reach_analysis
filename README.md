@@ -3,6 +3,10 @@
 A comprehensive, interactive Streamlit dashboard for analyzing social media performance across multiple platforms with Indian audience insights. This project provides actionable marketing intelligence for content creators and businesses targeting the Indian digital market.
 
 ---
+*Intern Name:* Pranali Ingale  
+*Intern ID:* CITS2281
+*Domain:* Data Analytics  
+*Organization:* CODTECH IT Solutions
 
 ## Project Overview
 
